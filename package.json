@@ -1,0 +1,21 @@
+{
+  "name": "vue-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.6",
+    "vue-hot-reload-api": "^2.3.2"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.5.2",
+    "parcel-bundler": "^1.11.0",
+    "vue-template-compiler": "^2.6.6"
+  }
+}
